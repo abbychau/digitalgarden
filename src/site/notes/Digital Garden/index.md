@@ -6,10 +6,7 @@
 # Hello
 
 I am Abby. [[Digital Garden/link|link]] 
-[[Digital Garden/folder/hello|hello]]
 
-```ccard
-type: folder_brief_live
+```folder-index-content
+test
 ```
-
-
