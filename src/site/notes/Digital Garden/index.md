@@ -24,4 +24,4 @@
 
 最近在玩：爐石戰記(戰場6777分)
 
-[MySQL 的Linear Hash 到底有多「不亂」](271969)
+[MySQL 的Linear Hash 到底有多「不亂」](/mysql-linear-hash)
